@@ -1,0 +1,5 @@
+timestamp,ip,user,status,message
+2026-05-21 10:00:01,172.16.0.5,jane.doe,200,Login successful
+2026-05-21 10:01:15,172.16.0.5,jane.doe,200,Viewed dashboard
+2026-05-21 10:03:42,203.0.113.9,unknown,403,Blocked by firewall rule
+2026-05-21 10:04:11,203.0.113.9,unknown,403,Blocked by firewall rule

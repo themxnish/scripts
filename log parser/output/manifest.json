@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-07-01T20:56:33.942099",
+  "files": [
+    {
+      "file": "apache_access.log",
+      "sha256": "8f9c68931cfd90c1940d7119224ad6c1073e898391cef826f7eea1c5012f3fed",
+      "detected_format": "apache",
+      "lines_parsed": 9
+    },
+    {
+      "file": "app_events.json",
+      "sha256": "9ba8a8d2695f3aeae6c0d0254acaea236c3c01ea0db002292f8dea3c48ac6516",
+      "detected_format": "json",
+      "lines_parsed": 4
+    },
+    {
+      "file": "auth.syslog",
+      "sha256": "03fd6733d694d2e6fc37b5e629724c24eb762622778ebe838041b4835dbaa912",
+      "detected_format": "syslog",
+      "lines_parsed": 7
+    },
+    {
+      "file": "firewall_export.csv",
+      "sha256": "2bf323afc0540e5ca26d3fe43f4a13d22faa50da69dbc572571101b6652ac476",
+      "detected_format": "csv",
+      "lines_parsed": 4
+    }
+  ],
+  "total_files": 4,
+  "total_lines": 24
+}

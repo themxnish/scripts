@@ -1,0 +1,7 @@
+May 21 08:45:12 server01 sshd[1842]: Failed password for root from 45.33.32.156 port 22 ssh2
+May 21 08:45:14 server01 sshd[1842]: Failed password for root from 45.33.32.156 port 22 ssh2
+May 21 08:45:16 server01 sshd[1842]: Failed password for root from 45.33.32.156 port 22 ssh2
+May 21 08:46:01 server01 sshd[1855]: Accepted password for deploy from 192.168.1.10 port 22 ssh2
+May 21 08:50:33 server01 CRON[2210]: (root) CMD (/usr/bin/backup.sh)
+May 21 08:55:02 server01 sudo: deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Feb 16 15:33:22 app-1 collectd[1606]: uc_insert: Value too old: name =&nbsp; i-d55fbbbe/df/df-dev-shm; value time = 1266363202; last cache update =&nbsp; 1266363202; 
